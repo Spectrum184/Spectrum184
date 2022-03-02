@@ -1,8 +1,8 @@
 <div align="center">
-<h1 style="color:#ff79c6" >👋 Hi there! I'm Thanh 👋</h1>
-    <img width="320" height="320" src="https://res.cloudinary.com/sonobe/image/upload/v1646227803/tidehunter_izas7a.jpg" />
+<h2 style="color:#ff79c6" >👋 Hi there! I'm Thanh 👋</h2>
+    <img width="240" height="240" src="https://res.cloudinary.com/sonobe/image/upload/v1646227803/tidehunter_izas7a.jpg" />
 </div>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -35,14 +35,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" title="Docker" height="25" /></span>
 &nbsp;
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <div align=center>
   <a href="#" title="Spectrum184">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrum184&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
