@@ -1,6 +1,6 @@
 <div align="center">
 <h2 style="color:#ff79c6" >👋 Hi there! I'm Thanh 👋</h2>
-    <img width="240" height="240" src="https://res.cloudinary.com/sonobe/image/upload/v1646227803/tidehunter_izas7a.jpg" />
+    <img width="240" height="240" src="https://res.cloudinary.com/thanhtk/image/upload/v1666446309/1400173657.kougyou_tiddeee__1022x1024__rk5jlz.jpg" />
 </div>
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
